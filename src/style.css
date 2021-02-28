@@ -1,6 +1,7 @@
-h1, p {
+h1,
+p {
   font-family: Lato;
 }
-body{
-  background-image: ;
+body {
+  background-image: url("background2.jpg");
 }
