@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import background from "https://github.com/Deda2206/MusicNotationLearningApp/blob/master/images/ProjectBackground.png";
+import background from url("https://github.com/Deda2206/MusicNotationLearningApp/blob/master/images/ProjectBackground.png");
 
 export default function App() {
   return (
