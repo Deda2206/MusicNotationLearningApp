@@ -35,7 +35,9 @@ import { AuthProvider } from "./contexts/AuthContext"
               <Route path="/SignUp" component={Signup}/>
               <Route path="/Forgot-Password" component={ForgotPassword}/> 
 
-              <PrivateRoute exact path='/Home' navBar = {Navbar} component={Home}/>
+              
+              
+              <PrivateRoute exact path='/Home' component={Home}/>
               <PrivateRoute path ="/Update-Profile" component = {UpdateProfile}/>
               <Route path = "/Game-Settings" component ={GameSettings}/>
               <Route path='/Lessons' component={Lessons}/>

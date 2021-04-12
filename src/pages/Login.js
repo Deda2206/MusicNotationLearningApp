@@ -10,7 +10,7 @@ export default function Login() {
   const [error, setError] = useState("")
   const [loading, setLoading] = useState(false)
   const history = useHistory()
-
+  
   async function handleSubmit(e) {
     e.preventDefault()
 
@@ -26,7 +26,9 @@ export default function Login() {
   }
 
   return (
+    
     <>
+    
       <Card>
         <Card.Body>
           <h2 className="text-center mb-4">Log In</h2>
