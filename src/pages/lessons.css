@@ -1,0 +1,13 @@
+.Box{
+    border: 1px solid black;
+    margin-top:auto;
+    align-content: center;
+}
+
+.header{
+    align-content: center;
+}
+
+#heading1{
+text-align: center;
+}

@@ -29,12 +29,3 @@
     background-repeat: no-repeat;
 }
 
-.logo{
-   border-radius: 20%;
-   border:darkcyan 4px solid;
-    display: block;
-    justify-content: center;
-    align-items:center;
-    margin: auto;
-    text-align:center;
-}
