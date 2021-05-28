@@ -28,8 +28,8 @@ function Login() {
   return (
     
     <div>
-    <div><p></p></div>
-      <Card>
+    <div><p>Login</p></div>
+      <Card style = {{width: '18rem'}}>
         <Card.Body>
           <h2 className="text-center mb-4">Log In</h2>
           {error && <Alert variant="danger">{error}</Alert>}
