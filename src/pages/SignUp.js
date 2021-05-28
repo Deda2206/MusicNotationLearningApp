@@ -32,7 +32,7 @@ export default function Signup() {
   }
 
   return (
-    <>
+    <div>
     
       <Card>
         <Card.Body>
@@ -60,6 +60,6 @@ export default function Signup() {
       <div className="w-100 text-center mt-2">
         Already have an account? <Link to="/Login">Log In</Link>
       </div>
-    </>
+    </div>
   )
 }

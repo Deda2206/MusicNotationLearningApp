@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/MusicNotationLearningApp/static/css/main.338f8678.chunk.css",
-    "main.js": "/MusicNotationLearningApp/static/js/main.c5fafbfb.chunk.js",
-    "main.js.map": "/MusicNotationLearningApp/static/js/main.c5fafbfb.chunk.js.map",
+    "main.js": "/MusicNotationLearningApp/static/js/main.04947e87.chunk.js",
+    "main.js.map": "/MusicNotationLearningApp/static/js/main.04947e87.chunk.js.map",
     "runtime-main.js": "/MusicNotationLearningApp/static/js/runtime-main.9f9fa34c.js",
     "runtime-main.js.map": "/MusicNotationLearningApp/static/js/runtime-main.9f9fa34c.js.map",
     "static/css/2.150d169a.chunk.css": "/MusicNotationLearningApp/static/css/2.150d169a.chunk.css",
-    "static/js/2.8d70c911.chunk.js": "/MusicNotationLearningApp/static/js/2.8d70c911.chunk.js",
-    "static/js/2.8d70c911.chunk.js.map": "/MusicNotationLearningApp/static/js/2.8d70c911.chunk.js.map",
+    "static/js/2.2ca2dc2c.chunk.js": "/MusicNotationLearningApp/static/js/2.2ca2dc2c.chunk.js",
+    "static/js/2.2ca2dc2c.chunk.js.map": "/MusicNotationLearningApp/static/js/2.2ca2dc2c.chunk.js.map",
     "index.html": "/MusicNotationLearningApp/index.html",
     "static/css/2.150d169a.chunk.css.map": "/MusicNotationLearningApp/static/css/2.150d169a.chunk.css.map",
     "static/css/main.338f8678.chunk.css.map": "/MusicNotationLearningApp/static/css/main.338f8678.chunk.css.map",
-    "static/js/2.8d70c911.chunk.js.LICENSE.txt": "/MusicNotationLearningApp/static/js/2.8d70c911.chunk.js.LICENSE.txt",
+    "static/js/2.2ca2dc2c.chunk.js.LICENSE.txt": "/MusicNotationLearningApp/static/js/2.2ca2dc2c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/MusicNotationLearningApp/static/media/ProjectBackground.e6eb7add.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9f9fa34c.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.8d70c911.chunk.js",
+    "static/js/2.2ca2dc2c.chunk.js",
     "static/css/main.338f8678.chunk.css",
-    "static/js/main.c5fafbfb.chunk.js"
+    "static/js/main.04947e87.chunk.js"
   ]
 }
