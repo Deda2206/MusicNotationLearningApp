@@ -29,7 +29,7 @@ function Login() {
     
     <div>
     <div><p>Login</p></div>
-      <Card style = {{width: '30rem'}}>
+      <Card >
         <Card.Body>
           <h2 className="text-center mb-4">Log In</h2>
           {error && <Alert variant="danger">{error}</Alert>}
